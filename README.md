@@ -17,7 +17,7 @@ This project demonstrates how simple, accessible tools like Excel and Google She
 👥 Segment-wise Market Distribution<br>
 🎨 Simple, clean design for easy interpretation<br>
 
-💡 Skills Demonstrated
+💡 Skills Demonstrated<br>
 Excel Pivot Tables & Pivot Charts<br>
 Google Sheets Interactive Dashboards<br>
 Data Cleaning & Transformation<br>
