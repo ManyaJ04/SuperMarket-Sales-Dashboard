@@ -3,14 +3,14 @@ An interactive and visually appealing Supermarket Sales Dashboard built using Ex
 
 This project demonstrates how simple, accessible tools like Excel and Google Sheets can be leveraged for professional-grade business performance analysis.
 
-✨ Project Highlights
+✨ Project Highlights <br>
 ✅ Region-wise & State-wise Sales Distribution
 ✅ Product Category Contribution to Sales & Profit
 ✅ Yearly Sales & Profit Trend Analysis
 ✅ Segment-wise Market Breakdown
 ✅ Clean, User-Friendly Dashboard Layout
 
-📊 Features
+📊 Features<br>
 📍 Region & State-wise Sales Analysis
 
 🛍️ Product Category Sales & Profit Contribution using Pie Charts
